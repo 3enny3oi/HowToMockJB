@@ -1,0 +1,20 @@
+
+/* Vivid colour palette and fonts */
+
+:root {
+  --primary: #4f6d7a;
+  --onprimary: #ff8a5b;
+  --secondary: #4f6d7a;
+  --onsecondary: #000000;
+  --tertiary: #ff8a5b;
+  --ontertiary: #000000;
+  --page: #17183b;
+  --onpage: #000000;
+  --detail: #f3f7f0;
+  --detail2: #bd897e;
+
+  --body-font: 1rem "mulish", sans-serif;
+  --header-font: lighter 3rem "mulish", cursive;
+  --title-font: lighter 2rem "mulish", cursive;
+  --quote-font: lighter 1.5rem 'Chewy', cursive;
+} 
